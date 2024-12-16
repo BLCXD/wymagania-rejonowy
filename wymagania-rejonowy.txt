@@ -1,0 +1,63 @@
+I. Rozumienie, analizowanie i rozwiązywanie problemów na bazie logicznego i abstrakcyjnego
+myślenia, myślenia algorytmicznego i sposobów reprezentowania informacji.
+II. Programowanie i rozwiązywanie problemów z wykorzystaniem komputera: układanie
+i programowanie algorytmów, organizowanie, wyszukiwanie i udostępnianie informacji,
+posługiwanie się aplikacjami komputerowymi.
+III. Posługiwanie się komputerem, urządzeniami cyfrowymi i sieciami komputerowymi, w tym
+znajomość zasad działania urządzeń cyfrowych i sieci komputerowych oraz wykonywania obliczeń
+i programów.
+IV. Rozwijanie kompetencji społecznych, takich jak komunikacja i współpraca w grupie, w tym
+w środowiskach wirtualnych.
+V. Przestrzeganie prawa i zasad bezpieczeństwa. Respektowanie prywatności informacji i ochrony
+danych, praw własności intelektualnej, etykiety w komunikacji i norm współżycia społecznego,
+ocena zagrożeń związanych z technologią i ich uwzględnienie dla bezpieczeństwa swojego i innych.
+Wymagania kolejnego etapu obejmują wymagania niższego etapu.
+I etap (szkolny) oraz II etap (międzyszkolny) – wymagania szczegółowe
+I. Rozumienie, analizowanie i rozwiązywanie problemów. Uczeń:
+1) formułuje problem w postaci specyfikacji (czyli opisuje dane i wyniki) i wyróżnia kroki w algorytmicznym rozwiązywaniu problemów. Stosuje różne sposoby przedstawiania algorytmów, w tym
+w języku naturalnym, w postaci schematów blokowych, listy kroków;
+2) stosuje przy rozwiązywaniu problemów podstawowe algorytmy:
+a) na liczbach naturalnych: bada podzielność liczb, wyodrębnia cyfry danej liczby, przedstawia
+działanie algorytmu Euklidesa w obu wersjach iteracyjnych (z odejmowaniem i z resztą z dzielenia);
+b) wyszukiwania i porządkowania: wyszukuje element w zbiorze uporządkowanym i nieuporządkowanym oraz porządkuje elementy w zbiorze metodą przez proste wybieranie i zliczanie;
+3) przedstawia sposoby reprezentowania w komputerze wartości logicznych, liczb naturalnych (system binarny), znaków (kody ASCII) i tekstów;
+4) prezentuje przykłady zastosowań informatyki w innych dziedzinach, w zakresie pojęć, obiektów
+oraz algorytmów.
+II. Programowanie i rozwiązywanie problemów z wykorzystaniem komputera i innych urządzeń cyfrowych. Uczeń:
+1) projektuje, tworzy i testuje programy w procesie rozwiązywania problemów. W programach
+stosuje: instrukcje wejścia/wyjścia, wyrażenia arytmetyczne i logiczne, instrukcje warunkowe,
+instrukcje iteracyjne, funkcje oraz zmienne i tablice. W szczególności programuje algorytmy
+z działu I pkt 2;
+2) analizuje i modyfikuje prosty program sterujący robotem lub innym obiektem na ekranie;
+3) przygotowuje i prezentuje rozwiązania problemów, posługując się podstawowymi aplikacjami
+(edytor tekstu oraz grafiki, arkusz kalkulacyjny, program do tworzenia prezentacji
+multimedialnej) na swoim komputerze, wykazując się przy tym umiejętnościami:
+a) tworzenia ilustracji w edytorze grafiki: rysuje za pomocą wybranych narzędzi, przekształca
+obrazy, uzupełnia grafikę tekstem;
+b) tworzenia dokumentów tekstowych: dobiera czcionkę, formatuje akapity, wstawia do tekstu
+ilustracje, napisy i kształty, tworzy tabele oraz listy numerowane i punktowane;
+3
+c) korzystania z arkusza kalkulacyjnego w trakcie rozwiązywania zadań związanych
+z prostymi obliczeniami: wprowadza dane do arkusza, formatuje komórki, definiuje proste
+formuły i dobiera wykresy do danych i celów obliczeń;
+d) tworzenia krótkich prezentacji multimedialnych łączących tekst z grafiką, korzysta przy tym
+z gotowych szablonów lub projektuje według własnych pomysłów;
+e) tworzenia prostej strony internetowej w języku HTML i CSS.
+III. Posługiwanie się komputerem, urządzeniami cyfrowymi i sieciami komputerowymi. Uczeń:
+1) schematycznie przedstawia budowę i funkcjonowanie sieci komputerowej, szkolnej, domowej
+i sieci internet;
+2) poprawnie posługuje się terminologią związaną z informatyką i technologią;
+3) poprawnie dokonuje adresowania IP w wersji 4;
+4) rozpoznaje urządzenia tworzące sieć komputerową.
+IV. Rozwijanie kompetencji społecznych. Uczeń:
+1) ocenia krytycznie informacje i ich źródła, w szczególności w sieci, pod względem rzetelności
+i wiarygodności w odniesieniu do rzeczywistych sytuacji, docenia znaczenie otwartych zasobów
+w sieci;
+2) przedstawia główne etapy w historycznym rozwoju informatyki i technologii;
+3) określa zakres kompetencji informatycznych, niezbędnych do wykonywania różnych zawodów.
+V. Przestrzeganie prawa i zasad bezpieczeństwa. Uczeń:
+1) opisuje kwestie etyczne związane z wykorzystaniem komputerów i sieci komputerowych, takie
+jak: bezpieczeństwo, cyfrowa tożsamość, prywatność, własność intelektualna, równy dostęp do
+informacji i dzielenie się informacją;
+2) postępuje etycznie w pracy z informacjami;
+3) rozróżnia typy licencji na oprogramowanie oraz na zasoby w sieci
